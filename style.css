@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+    text-align: center;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.container {
+    background-color: rgb(110, 178, 87);
+    width: 500px;
+    height: 250px;
+    border: solid 4px rgb(20, 22, 20);
+}
+
+.title {
+    font-size: 36px;
+    color: whitesmoke
+}
+
+.btn {
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 6px;
+    border: solid 2px rgb(80, 114, 85);
+    color: rgb(20, 22, 20);
+    background-color: rgb(213, 229, 111);
+
+}
+
+.btn:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+.generate {
+    font-size: 25px;
+    height: 40px;
+
+    border: 2px rgb(20, 22, 20) solid;
+}
