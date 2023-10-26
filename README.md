@@ -2,7 +2,7 @@
 
 Overview —
 This a simple password generator, 
-it's a good practice of basic JavaScript concepts
+I'm doing some simples small proyects using of basic JavaScript concepts
 Such as strings, using math libraries for generate random numbers or symbols.
 
 Running the project 
